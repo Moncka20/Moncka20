@@ -1,5 +1,5 @@
 <div align="center">
-<img height="500" src="https://i.pinimg.com/736x/54/70/b8/5470b8488724d1c1aaf0b8aef7531352.jpg"  />
+  <img height="300" src="https://i.pinimg.com/736x/a6/e0/77/a6e077396325eddf195f67ba79badab5.jpg"  />
 </div>
 
 
@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm Thomas from Colombia<br><br>- 🔭 I’m Student a Software Engineer<br>- 📚 I'm currently learning Java<br>- ⚡ In my free time I game a total war saga and listen music</p>
+<p align="left">I'm Thomas from Colombia<br><br>- 🔭 I’m Student a Software Engineer<br>- 📚 I'm currently learning Java<br>- ⚡ In my free time I game a total war saga and read ASOIAF</p>
 
 ###
 
