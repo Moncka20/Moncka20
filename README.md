@@ -5,13 +5,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/thomas-alejandro-moncayo-li%EF%BF%BDeiro-5693a1357/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/Moncka000" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  />
   </a>
   <a href="https://discord.com/users/moncka" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
   </a>
 </div>
 
@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm Thomas from Colombia<br><br>- 🔭 I’m Student a Software Engineer<br>- 📚 I'm currently learning Java<br>- ⚡ In my free time I game a total war saga and valorant</p>
+<p align="left">I'm Thomas from Colombia<br><br>- 🔭 I’m Student a Software Engineer<br>- 📚 I'm currently learning Java<br>- ⚡ In my free time I game a total war saga and listen music</p>
 
 ###
 
@@ -77,6 +77,7 @@
 
 ###
 
+<h3 align="left">🎶   My Spotify :</h3>
 <div align="center">
   <a href="https://open.spotify.com/user/5zi1j2g02htxmmrk8deoitf8s">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=5zi1j2g02htxmmrk8deoitf8s&count=5&unique=false" alt="Spotify recently played"  />
