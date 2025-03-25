@@ -67,16 +67,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Moncka20&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
 <h3 align="left">🎶   My Spotify :</h3>
 <div align="center">
   <a href="https://open.spotify.com/user/5zi1j2g02htxmmrk8deoitf8s">
