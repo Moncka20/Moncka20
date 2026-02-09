@@ -64,11 +64,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="git logo"  />
 </div>
-
-###
-
-<h3 align="left">🎶   My Spotify :</h3>
-<div align="center">
   <a href="https://open.spotify.com/user/5zi1j2g02htxmmrk8deoitf8s">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=5zi1j2g02htxmmrk8deoitf8s&count=5&unique=false" alt="Spotify recently played"  />
   </a>
