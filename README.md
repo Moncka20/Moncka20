@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm Thomas from Colombia<br><br>- 🔭 I’m Student a Software Engineer<br>- 📚 I'm currently learning Java<br>- ⚡ In my free time I game a total war saga and read ASOIAF</p>
+<p align="left">I'm Thomas from Colombia<br><br>- 🔭 I’m Student a Software Engineer<br>- 📚 I'm currently learning Java<br>- ⚡ In my free time I play a total war saga and read manga</p>
 
 ###
 
