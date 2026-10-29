@@ -2,16 +2,6 @@
   <img height="400" src="https://i.pinimg.com/736x/a6/e0/77/a6e077396325eddf195f67ba79badab5.jpg"  />
 </div>
 
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/thomas-alejandro-moncayo-li%EF%BF%BDeiro-5693a1357/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/moncka" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
-  </a>
-</div>
-
 ###
 
 <h1 align="center">hey there 👋</h1>
